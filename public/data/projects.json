@@ -1,0 +1,44 @@
+[
+  {
+    "id": "proj-1",
+    "title": "E-Commerce Platform",
+    "image": "/placeholder.svg",
+    "tags": ["React", "Node.js", "PostgreSQL", "Stripe"],
+    "techStack": "React, TypeScript, Node.js, Express, PostgreSQL, Stripe API",
+    "description": "A full-featured e-commerce platform with product management, shopping cart, and secure payment processing.",
+    "contribution": "Full-stack development, payment integration, and deployment",
+    "outcome": "Processed over $100k in transactions in first 3 months",
+    "links": {
+      "demo": "https://demo.example.com",
+      "github": "https://github.com/yourusername/project"
+    }
+  },
+  {
+    "id": "proj-2",
+    "title": "Task Management App",
+    "image": "/placeholder.svg",
+    "tags": ["React", "Firebase", "Material-UI"],
+    "techStack": "React, TypeScript, Firebase, Material-UI",
+    "description": "A collaborative task management application with real-time updates and team features.",
+    "contribution": "Frontend development and real-time data synchronization",
+    "outcome": "Used by 500+ users daily",
+    "links": {
+      "demo": "https://demo.example.com",
+      "github": "https://github.com/yourusername/project"
+    }
+  },
+  {
+    "id": "proj-3",
+    "title": "Weather Dashboard",
+    "image": "/placeholder.svg",
+    "tags": ["React", "OpenWeather API", "Chart.js"],
+    "techStack": "React, TypeScript, OpenWeather API, Chart.js",
+    "description": "A beautiful weather dashboard with forecasts, historical data, and interactive charts.",
+    "contribution": "Solo project - design and development",
+    "outcome": "Featured on Product Hunt with 200+ upvotes",
+    "links": {
+      "demo": "https://demo.example.com",
+      "github": "https://github.com/yourusername/project"
+    }
+  }
+]

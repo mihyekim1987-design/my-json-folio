@@ -1,0 +1,15 @@
+{
+  "name": "Your Name",
+  "motto": "Building the future, one line of code at a time",
+  "description": "I'm a passionate full-stack developer with expertise in modern web technologies. I love creating elegant solutions to complex problems and building products that make a difference.",
+  "contact": {
+    "email": "your.email@example.com",
+    "phone": "+82 10-1234-5678",
+    "location": "Seoul, South Korea"
+  },
+  "summary": {
+    "yearsOfExperience": 5,
+    "projectsCompleted": 42,
+    "clientsSatisfied": 28
+  }
+}

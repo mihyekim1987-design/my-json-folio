@@ -1,0 +1,30 @@
+[
+  {
+    "id": "exp-1",
+    "company": "Tech Company Inc.",
+    "position": "Senior Frontend Developer",
+    "period": "2021.03 - Present",
+    "startDate": "2021-03",
+    "endDate": null,
+    "responsibilities": [
+      "Led development of new product features using React and TypeScript",
+      "Implemented responsive designs and improved web performance by 40%",
+      "Mentored junior developers and conducted code reviews",
+      "Collaborated with design and backend teams on feature planning"
+    ]
+  },
+  {
+    "id": "exp-2",
+    "company": "Startup Co.",
+    "position": "Full-Stack Developer",
+    "period": "2019.06 - 2021.02",
+    "startDate": "2019-06",
+    "endDate": "2021-02",
+    "responsibilities": [
+      "Built and maintained web applications using React and Node.js",
+      "Designed and implemented RESTful APIs",
+      "Integrated third-party services and payment systems",
+      "Participated in agile development processes"
+    ]
+  }
+]

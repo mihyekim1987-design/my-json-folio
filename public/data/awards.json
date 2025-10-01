@@ -1,0 +1,26 @@
+[
+  {
+    "id": "award-1",
+    "type": "certification",
+    "title": "AWS Certified Solutions Architect",
+    "period": "2022.06",
+    "organization": "Amazon Web Services",
+    "description": "Professional certification for designing distributed systems on AWS"
+  },
+  {
+    "id": "award-2",
+    "type": "achievement",
+    "title": "Best Developer Award",
+    "period": "2021.12",
+    "organization": "Tech Company Inc.",
+    "description": "Awarded for outstanding contribution to product development"
+  },
+  {
+    "id": "award-3",
+    "type": "training",
+    "title": "Advanced React Patterns Workshop",
+    "period": "2021.03",
+    "organization": "Frontend Masters",
+    "description": "Intensive training on advanced React patterns and performance optimization"
+  }
+]
